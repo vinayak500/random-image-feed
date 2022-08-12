@@ -1,0 +1,22 @@
+#heading{
+    text-align: center;
+    font-size: 30px;
+}
+
+body
+{
+    margin:0px;
+}
+
+
+
+#conatiner{
+    display:flex;
+    align-items:center;
+    justify-content: center;
+    flex-direction: row;
+}
+
+#container img{
+    margin:5px;
+}
